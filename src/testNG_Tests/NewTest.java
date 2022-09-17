@@ -8,7 +8,7 @@ public class NewTest {
   @Test
   public void checkPull() {
     
-     system.out.println("Test TestNG sample GIT PULL");
+     System.out.println("Test TestNG sample GIT PULL");
   }
   @BeforeTest
   public void beforeTest() {
